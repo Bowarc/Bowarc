@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Small dev trying to learn.
+
+I started with python but now i mosly use rust
+
+
 <!--
 **Bowarc/Bowarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
