@@ -2,7 +2,7 @@
 
 Small dev trying to learn.
 
-I started with python but now i mosly use rust
+I started with python but now i mostly use rust
 
 
 <!--
