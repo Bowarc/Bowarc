@@ -1,23 +1,47 @@
-### Hi there 👋
+<h1> Hi there 👋</h1>
 
-Small dev trying to learn.
+<a>
+  Small dev trying to learn.
 
-I started with python but now i mostly use rust
+  I started with Python but now i mostly use Rust
+  
+  Discord: Bowarc#4159
+</a>
 
-Discord: Bowarc#4159
+
 
 
 <a href="https://github.com/Bowarc">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bowarc&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp&layout=default&card_width=800&hide_border=true&theme=transparent" />
 </a>
-<a href="https://github.com/Bowarc">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bowarc&theme=transparent" />
-</a>
 <!--
-<a href="https://github.com/Bowarc">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bowarc&hide_border=true&card_width=338&theme=transparent" />
-</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bowarc&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact" alt="bowarc" /></p>
 -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Bowarc&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact)![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bowarc&hide_border=true&card_width=338&theme=transparent)
+
+
+<!--
+Good but not perfect
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bowarc&theme=transparent)
+-->
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/Bowarc">
+    <img src="https://komarev.com/ghpvc/?username=Bowarc&color=blue&style=flat)" />
+  </a>
+</p>
+
+
+
+
 </details>
 
 <!--
