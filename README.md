@@ -1,7 +1,7 @@
 <h1> Hi there 👋</h1>
 
 <a>
-  Small dev trying to learn.
+  Small dev self taught.
 
   I started with Python but now i mostly use Rust
   
