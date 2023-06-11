@@ -5,7 +5,7 @@
 
   I started with Python but now i mostly use Rust
   
-  Discord: Bowarc#4159
+  Discord: Bowarc#4159  
   Email: ***REMOVED***
 </a>
 
