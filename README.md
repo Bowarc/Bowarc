@@ -3,10 +3,11 @@
 <a>
   Small dev self taught.
 
-  I started with Python but now i mostly use Rust
-  
-  Discord: Bowarc#4159  
-  Email: Bowarc@proton.me
+  I started with Python but now i mostly use Rust  
+
+  Revolt: Bowarc#2060
+  Email: Bowarc@proton.me  
+  Discord: bowarc ~~Bowarc#4159~~
 </a>
 
 
