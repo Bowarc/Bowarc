@@ -1,6 +1,6 @@
 # &nbsp;&nbsp;Hellow
 
-
+<!-- This is ugly af lmao -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software / backend developper self taught.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I started with Python but now i mostly use Rust
