@@ -1,20 +1,20 @@
 <h1> Hellow</h1>
 
-<a>
-  Software / backend developper self taught.  
 
-  I started with Python but now i mostly use Rust  
+<label>Software / backend developper self taught.</label>  
+
+<label>I started with Python but now i mostly use Rust  </label>
 
 
 
-  <!-- External links -->
-  <a href="mailto:***REMOVED***"><img src="https://img.shields.io/badge/Email-***REMOVED***-907eda"></a>  
-  <a href="https://bowarc.ovh"><img src="https://img.shields.io/badge/Personal%20Site-bowarc.ovh-1abc9c"></a>  <sup><sup>wip</sup></sup>  
-  <a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Revolt-Bowarc%232060-a2000c"></a>  
-  <a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Discord-Bowarc-7289da"></a>  
+<!-- External links -->
+<a href="mailto:***REMOVED***"><img src="https://img.shields.io/badge/Email-***REMOVED***-907eda"></a>  
+<a href="https://bowarc.ovh"><img src="https://img.shields.io/badge/Personal%20Site-bowarc.ovh-1abc9c"></a>  <sup><sup>wip</sup></sup>  
+<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Revolt-Bowarc%232060-a2000c"></a>  
+<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Discord-Bowarc-7289da"></a>  
   
 
-</a>
+
 
 <!-- Buggy atm
 <a href="https://github.com/Bowarc">
