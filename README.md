@@ -1,9 +1,11 @@
 <h1> Hellow</h1>
 
 <a>
-  Small dev self taught.
+  Software / backend developper self taught.  
 
   I started with Python but now i mostly use Rust  
+
+
 
   <!-- External links -->
   <a href="mailto:***REMOVED***"><img src="https://img.shields.io/badge/Email-***REMOVED***-907eda"></a>  
