@@ -1,9 +1,9 @@
 <h1> Hellow</h1>
 
 
-<label>Software / backend developper self taught.</label>  
+Software / backend developper self taught.
 
-<label>I started with Python but now i mostly use Rust  </label>
+I started with Python but now i mostly use Rust
 
 
 
