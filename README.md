@@ -20,11 +20,11 @@
 </a> -->
 
 <!-- Language stats -->
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=bowarc&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact)
+<a href="https://github.com/Bowarc"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bowarc&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact"></a>  
 
 <!-- Github stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Bowarc&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bowarc&hide_border=true&card_width=338&theme=transparent)
+<a href="https://github.com/Bowarc"><img src="https://github-readme-stats.vercel.app/api?username=Bowarc&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact"></a>
+<a href="https://github.com/Bowarc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bowarc&hide_border=true&card_width=338&theme=transparent"></a>  
 
 
 <!--
