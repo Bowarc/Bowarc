@@ -5,9 +5,13 @@
 
   I started with Python but now i mostly use Rust  
 
-  Revolt: Bowarc#2060  
-  Email: Bowarc@proton.me  
-  Discord: bowarc ~~Bowarc#4159~~
+  <!-- External links -->
+  <a href="mailto:Bowarc@proton.me"><img src="https://img.shields.io/badge/Email-Bowarc%40proton.me-907eda"></a>  
+  <a href="https://bowarc.ovh"><img src="https://img.shields.io/badge/Personal%20Site-bowarc.ovh-1abc9c"></a>  <sup><sup>wip</sup></sup>  
+  <a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Revolt-Bowarc%232060-a2000c"></a>  
+  <a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Discord-Bowarc-7289da"></a>  
+  
+
 </a>
 
 <!-- Buggy atm
