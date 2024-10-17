@@ -1,11 +1,11 @@
 # &nbsp;&nbsp;Hellow
 
 <!-- This is ugly af lmao -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software / backend developper self taught.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;French software / backend developper, mostly familiar with Rust and Python.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I started with Python but now i mostly use Rust
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I can also do frontend but I am not that good design-wise :p.
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new projects, so feel free to reach out.
 
 <!-- External links -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:***REMOVED***"><img src="https://img.shields.io/badge/Email-***REMOVED***-907eda"></a>  
@@ -13,8 +13,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Revolt-Bowarc%232060-a2000c"></a>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Discord-Bowarc-7289da"></a>  
   
-
-
 
 <!-- Buggy atm
 <a href="https://github.com/Bowarc">
