@@ -3,9 +3,9 @@
 <!-- This is ugly af lmao -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;French software / backend developper, mostly familiar with Rust and Python.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Im currently working in [RMP](github.com/bowarc/RMP) a music player that uses a client / server approach which allow all sorts of clients (CLI, TUI, GUI, ..)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working in [RMP](github.com/bowarc/RMP) a music player that uses a client / server approach which allow all sorts of clients (CLI, TUI, GUI, ..).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new projects, so feel free to reach out.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new projects, so feel free to reach out !
 
 <!-- External links -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@bowarc.ovh"><img src="https://img.shields.io/badge/Contact%20Email-contact%40bowarc.ovh-907eda"></a>  
