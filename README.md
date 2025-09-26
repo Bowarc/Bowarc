@@ -10,9 +10,7 @@
 <!-- External links -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@bowarc.ovh"><img src="https://img.shields.io/badge/Contact%20Email-contact%40bowarc.ovh-907eda"></a>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bowarc.ovh"><img src="https://img.shields.io/badge/Personal%20Site-bowarc.ovh-1abc9c"></a>  <sup><sup>wip</sup></sup>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Revolt-Bowarc%232060-a2000c"></a>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Discord-Bowarc-7289da"></a>  
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bowarc"><img src="https://img.shields.io/badge/Revolt-Bowarc%232060-a2000c"></a>    
 
 <!-- Buggy atm
 <a href="https://github.com/Bowarc">
