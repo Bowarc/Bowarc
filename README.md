@@ -3,7 +3,7 @@
 <!-- This is ugly af lmao -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;French software / backend developper, mostly familiar with Rust and Python.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working in [RMP](https://github.com/bowarc/RMP) a music player that uses a client / server approach which allow all sorts of clients (CLI, TUI, GUI, ..).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working in [Cybermap](https://github.com/bowarc/cybermal) a Cyberpunk2077 themed map web & mobile app.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm always open to collaboration and new projects, so feel free to reach out !
 
